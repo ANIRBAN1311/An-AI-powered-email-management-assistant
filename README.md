@@ -58,7 +58,7 @@ The **Email Agent** automates email management by understanding natural language
 
 ## Example Commands
 
-- "Send an email to jane@example.com confirming tomorrow's meeting."  
+- "Send an email to anirban@example.com confirming tomorrow's meeting."
 - "Create a draft to my manager about project updates."  
 - "Reply to the latest email from Alex thanking them for the report."  
 - "Label all unread emails from marketing as 'Marketing'."  
